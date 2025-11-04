@@ -121,7 +121,7 @@ This is a personal learning repository. However, if you have suggestions or find
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available for educational purposes.
 
 ## 👤 Author
 
